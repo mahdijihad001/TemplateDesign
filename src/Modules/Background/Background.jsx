@@ -48,7 +48,6 @@ const Background = () => {
         </div>
       </div>
     </div>
-
   );
 };
 
